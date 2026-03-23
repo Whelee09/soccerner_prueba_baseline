@@ -1,0 +1,21 @@
+# Entorno virtual
+.venv/
+
+# Modelos
+*.pth
+
+# Dataset (descargar de Kaggle)
+mini/
+annotations.zip
+mini.zip
+
+# Generado al correr el notebook
+working/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
